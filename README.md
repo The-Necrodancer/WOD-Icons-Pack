@@ -14,7 +14,7 @@ An Extensive Icons Pack of World of Darkness Icons &amp; Emojis.
 - If your fanwork is listed here and you do not wish it to be listed, please contact me immediately.
 
 ## Credits
-- [(Red) `dhampir.png` &amp; (Black) `dhampir.png`](https://www.reddit.com/r/WhiteWolfRPG/comments/li1x38/fanmade_dhampir_ankh/) made by [u/vstheworld65](https://www.reddit.com/user/vstheworld65/) on Reddit.
+- [(Red) `dhampir.png`](Vampire-The-Masquerade/icons-red-png-fanmade/dhampir.png) &amp; [(Black) `dhampir.png`](Vampire-The-Masquerade/icons-black-png-fanmade/dhampir.png) made by [u/vstheworld65](https://www.reddit.com/user/vstheworld65/) on [Reddit](https://www.reddit.com/r/WhiteWolfRPG/comments/li1x38/fanmade_dhampir_ankh/).
 
 ## Notes
 
