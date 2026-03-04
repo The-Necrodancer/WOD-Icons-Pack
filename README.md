@@ -31,4 +31,4 @@ Below is a series of recommendations and notes.
 
 [![DarkPack](License/darkpack_logo2.png)](https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement)
 
-> Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit [worldofdarkness.com]([worldofdarkness.com](https://www.paradoxinteractive.com/games/world-of-darkness/about)).
+> Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit [worldofdarkness.com](https://www.paradoxinteractive.com/games/world-of-darkness/about).
