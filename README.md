@@ -27,6 +27,8 @@ Below is a series of recommendations and notes.
 - Implement all the V5 Symbols
 - Include the V20 Assamite Symbol in [Vampire-The-Masquerade/icons-red-png-v20](Vampire-The-Masquerade/icons-red-png-v20)
 
+## [License](License)
+
 ![DarkPack](License/darkpack_logo2.png)
 
 > Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit [worldofdarkness.com](worldofdarkness.com).
