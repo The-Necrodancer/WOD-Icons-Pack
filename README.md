@@ -25,7 +25,9 @@ Below is a series of recommendations and notes.
 
 ## TODO
 
-- Implement all svg symbols for the default color
+- Try and fix `assamite_antitribu.svg`
+- Upload Koschei symbol to `fanmade`
+- Upload fanmade v5 Nictuku symbol to `fanmade`
 
 ## [License](License)
 
