@@ -9,7 +9,7 @@ An Extensive Icons Pack of World of Darkness Icons &amp; Emojis.
   - `version` $\rightarrow$ `v5`, `v20`, `met` (Mind's Eye Theater), `fanmade` (Unofficial Fanmade Content), etc
   - `[color]` (Optional) $\rightarrow$ `red`, `green`, etc.
     - Default colors located in current directory.
-- Any folder ending with `-fanmade` refers to open source fanmade content under **Dark Pack**. Credits to fanmade content are provided.
+- Any folder labeled `fanmade` refers to open source fanmade content under **Dark Pack**. Credits to fanmade content are provided.
 
 **Disclaimer**
 - If your fanwork is listed here and you do not wish it to be listed, please contact me immediately.
