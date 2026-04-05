@@ -21,7 +21,7 @@ An Extensive Icons Pack of World of Darkness Icons &amp; Emojis.
 
 Below is a series of recommendations and notes.
 
-- If you are hosting a World of Darkness Westmarches Discord server and are looking for emojis to stock your server with, it is highly recommend you utilize anything under the `[color]` directory. Due to the fact that Discord users commonly use Dark Mode. Ergo its simply hard to see. 
+- If you are hosting a World of Darkness Westmarches Discord server and are looking for emojis to stock your server with, it is highly recommend you utilize anything under the `[color]` directory, since most users use dark mode. (Recommend for splats that use black icons as default)
 
 ## TODO
 
