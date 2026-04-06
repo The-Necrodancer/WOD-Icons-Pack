@@ -28,6 +28,7 @@ Below is a series of recommendations and notes.
 - Try and fix `assamite_antitribu.svg`
 - Upload Koschei symbol to `fanmade`
 - Upload fanmade v5 Nictuku symbol to `fanmade`
+- Add all symbols to Vampire-The-Requiem
 
 ## [License](License)
 
