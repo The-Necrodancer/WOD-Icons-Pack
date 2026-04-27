@@ -25,16 +25,16 @@ Below is a series of recommendations and notes.
 
 ## TODO
 
--[ ] Try and fix `assamite_antitribu.svg`
--[ ] Upload Koschei symbol to `fanmade` & add creator to credits
--[ ] Upload fanmade v5 Nictuku symbol to `fanmade` & add creator to credits
--[ ] Upload all symbols to Vampire-The-Requiem 
--[ ] Finalize formatting and potentially further break down symbols into `clans`, `bloodlines`, `sects`, etc (Same for other splats).
--[ ] Upload Jifushū symbol to `fanmade` & add creator to credits
--[ ] Upload Werewolf the Apocalypse Symbols
--[ ] Upload Mage the Ascension Symbols
--[ ] Upload Changeling the Dreaming Symbols
--[ ] Upload script I used for `.svg` conversion in addition to.
+- Try and fix `assamite_antitribu.svg`
+- Upload Koschei symbol to `fanmade` & add creator to credits
+- Upload fanmade v5 Nictuku symbol to `fanmade` & add creator to credits
+- Upload all symbols to Vampire-The-Requiem 
+- Finalize formatting and potentially further break down symbols into `clans`, `bloodlines`, `sects`, etc (Same for other splats).
+- Upload Jifushū symbol to `fanmade` & add creator to credits
+- Upload Werewolf the Apocalypse Symbols
+- Upload Mage the Ascension Symbols
+- Upload Changeling the Dreaming Symbols
+- Upload script I used for `.svg` conversion in addition to.
 
 
 ## [License](License)
